@@ -6,3 +6,5 @@ visual studio 켜고 turmial에서 git init
 git add, git commit
 
 git branch로 브랜치 생성하기
+
+ㅁㄴㅇㄻㄴㅇㄹ
