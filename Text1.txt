@@ -4,3 +4,7 @@ mkdir하고 cd로 파일 들어가기
 visual studio 켜고 turmial에서 git init
 
 git add, git commit
+
+asdf
+asdfasdf
+asdfasdfasdf
