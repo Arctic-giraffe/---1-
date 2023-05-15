@@ -5,12 +5,9 @@ visual studio 켜고 turmial에서 git init
 
 git add, git commit
 
-<<<<<<< HEAD
 asdf
 asdfasdf
 asdfasdfasdf
-=======
 git branch로 브랜치 생성하기
 
 ㅁㄴㅇㄻㄴㅇㄹ
->>>>>>> 고라니알파
